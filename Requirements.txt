@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+moviepy
+numpy
+Pillow
+python-multipart
