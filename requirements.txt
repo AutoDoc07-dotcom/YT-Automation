@@ -1,6 +1,7 @@
 fastapi
-uvicorn
-moviepy
-numpy
+uvicorn[standard]
+moviepy==1.0.3
+numpy<2
 Pillow
 python-multipart
+imageio-ffmpeg
